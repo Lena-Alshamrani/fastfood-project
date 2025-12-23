@@ -1,0 +1,16 @@
+Bill NO. 1
+Total Price : ١١٩٫٦٠ - Date : Sun May 08 11:12:53 GMT+03:00 2022
+Person :  Mobile=0587623456, Address=Riyadh olaya
+ *** items *** 
+Meal {name : Burger, price : 20.0 , contents  :  With cheese slices, tomatoes, cucumber pickles, and special sauce } ,  size : M , Quantity : 3
+ColdDrink {name : Avocado with nuts, price : 15.0 withIceCream  ,  size : S , Quantity : 1
+========================
+
+Bill NO. 2
+Total Price : ١٦٫١٠ - Date : Sun May 08 11:13:51 GMT+03:00 2022
+Person :  Mobile=0599887766, Address=altaawon
+ *** items *** 
+Snack {name : Cookies, price : 5.0} ,  size : S , Quantity : 1
+Snack {name : Crisp Botato, price : 9.0} ,  size : S , Quantity : 1
+========================
+

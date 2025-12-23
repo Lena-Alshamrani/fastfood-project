@@ -1,0 +1,14 @@
+Bill NO. 1
+Total Price : 56.35 Date : Sun May 01 02:18:13 GMT+03:00 2022
+Person :  Mobile=0987654321, Address=h
+ *** items ***ColdDrink {name : Orange Juce, price : 11.0
+ColdDrink {name : Avocado with nuts, price : 15.0 withIceCream 
+========================
+
+Bill NO. 2
+Total Price : 62.10 Date : Sun May 01 02:20:21 GMT+03:00 2022
+Person :  Mobile=0897656787, Address=hfh
+ *** items ***Meal {name : IndianFood, price : 20.0 , contents  :  Rice with spiced chicken tikka pieces }
+Snack {name : Cookies, price : 5.0}
+========================
+
